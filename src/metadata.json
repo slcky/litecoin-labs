@@ -1,0 +1,3804 @@
+[
+  {
+    "name": "Litecoin Punk #1",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "b881960889026344719738a3667613f069f307dc",
+    "edition": "1",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ShinyRedLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Ape"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "NormalEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "NormalMouth"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "HornedRimGlasses"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "PurpleHair"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punk #2",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "08fddc09ef318db85906644196bea29b54bd2212",
+    "edition": "2",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PinkLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "MartianApe"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "BlueEyeShadow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "NormalMouth"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "CoolShades"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "CowboyHat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punk #3",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "297d1c8ef500a331856b8bde0e9627b3b54b532a",
+    "edition": "3",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PurpleLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "OrcAlien"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "LaserEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "NormalMouth"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "BigShades"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "KnittedCap"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "PinkHair"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punk #4",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "dd985ac4dca2521b921b3d9ce5a4359a4e1351b3",
+    "edition": "4",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "LightGreenLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "AlienApe"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "NormalEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "NormalMouth"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "EyeMask"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "PartyHat"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punk #5",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "987770889ab371488c75e4e4698908012bc7cbe6",
+    "edition": "5",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "WhiteLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Male"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "LaserEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "RedHair"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punk #6",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "537ff16ae0b0db7c9ec60dddf31b044b2e032256",
+    "edition": "6",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "OrangeLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Female"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "GreenEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "EyeMask"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "GreenHair"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punk #7",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "10387b905e8493572e789b9958fe1d41b703d825",
+    "edition": "7",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "YellowLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Female"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "GreenEyeShadow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "CoolShades"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Pipe"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punk #8",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "3b06447dffe6bc63de29b696b938e6fa59f0ef3f",
+    "edition": "8",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "YellowLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "OrcAlien"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "NormalEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "NormalMouth"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Sunglasses"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Yamaka"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punk #9",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "c2536a95805653eeef2cd6ad31c15432fe98c8de",
+    "edition": "9",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "WhiteLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Male"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "LaserEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Mohawk"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #10",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "e0f92ec2c4b8a38ea8afe92d13a7a41e39ffd68b",
+    "edition": "10",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "YellowLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "OrcApe"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "LaserEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "NormalMouth"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "EyePatch"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "ClownNose"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #11",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "3a813bf195224635adff29417b9ef5c665597205",
+    "edition": "11",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "LightBlueLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "OrcApe"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "NormalEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "NormalMouth"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Glasses"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "MohawkThin"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #12",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "dad5265420dfcfd7958d8efe47d159ae342952b4",
+    "edition": "12",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "LigthPurpleLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "AlienApe"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "LaserEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "NormalMouth"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "VR"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "GLITCH"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #13",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "c95f13cebc602ff8a930b550512ad9ef990863c4",
+    "edition": "13",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "BlueLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Male"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "LaserEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "CoolShades"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "GLITCH"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Headband"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #14",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "6e46ef432820eac8f6e3f73f87cce720fd4cc687",
+    "edition": "14",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "OrangeLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Male"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "LaserEyesGold"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Sunglasses"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "GLITCH"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #15",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "0b9fe6f3bc5d9f279be7199d1e1682f437194236",
+    "edition": "15",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "BlueLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "AlienApe"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "NormalEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "NormalMouth"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "BlueLightGlasses"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #16",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "2a305c78eec4422243d323315da134d6cc0f5439",
+    "edition": "16",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "BlueLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Ape"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "NormalEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "NormalMouth"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Sunglasses"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #17",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "8f9d811b11032f3f1f564524c93c40f2d7592420",
+    "edition": "17",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "LightGreenLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "MartianApe"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "NormalEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "NormalMouth"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "3dglasses"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "GLITCH"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "CuteHair"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #18",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "9455a950d414d00f5adfc424181a854162b9b217",
+    "edition": "18",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "BrightYellowLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Male"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "NormalEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "EyeMask"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Beanie"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #19",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "720467d393841542564e247cc40371d995cfa858",
+    "edition": "19",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "GreyLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Male"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "NormalEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Sunglasses"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "KnittedCap"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "PinkHair"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #20",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "759dae5cd1e3d911160607b51daa473105021e0e",
+    "edition": "20",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "WhiteLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "OrcAlienFemale"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "NormalEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "CoolShades"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Earring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #21",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "7923d2186a1117f0f0b1c948cedeeb72d2ceb1aa",
+    "edition": "21",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "OrangeLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "OrcAlienFemale"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "LaserEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "EyeMask"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #22",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "686b28ba53950bd87f8d03e7dd4a6a64142aaa8f",
+    "edition": "22",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "LightGreenLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Male"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "LaserEyesGold"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Tuque"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #23",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "1995bf9c30fa58f3db07e2f32ab8d7f48a84f7b3",
+    "edition": "23",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "GreyLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Male"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "LaserEyesGold"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "WeldingGoggles"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "BlondeHair"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #24",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "26c046728f46612039e766838efaec6532a07e30",
+    "edition": "24",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "WhiteLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "OrcAlienFemale"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "LaserEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Cigarette"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #25",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "f1f70bd0a760b91fd8804926f8c7e1fa5575012c",
+    "edition": "25",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "BiegeBackground"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Female"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "LaserEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "BlondeHair"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #26",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "60e97a7a484e0fa0c625bc5f489d114b30b46c2a",
+    "edition": "26",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "GreyLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Female"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "NormalEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "HotLipStick"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "3dglasses"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "ClownNose"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #27",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "70511becd23b73b647dfa46fd57231365d27721b",
+    "edition": "27",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "GreyLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Female"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "LaserEyesGold"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "EyeMask"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Labs #28",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "350d933e017311bff46cc73952f7cb2e0c23634a",
+    "edition": "28",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "WhiteLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "AlienApe"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "LaserEyesGold"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "NormalMouth"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "GLITCH"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #29",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "5a0678d0db579cf62ad423ad0b6d0eba25eb2798",
+    "edition": "29",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "YellowLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Male"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "LaserEyesGold"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "TanningGlasses"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "GLITCH"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "BlackHair"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #30",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "23b58f59525cdb9e110b3a4ca79ce1b14de72d91",
+    "edition": "30",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "WhiteLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Male"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "NormalEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "BigShades"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Earring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #31",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "4d35314bf62db541a3df6f5ac75599f394068e02",
+    "edition": "31",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PurpleLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "OrcAlienFemale"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "NormalEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Glasses"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Sombrero"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #32",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "f17296aeed27ac309f31001638b5322aceccdcd2",
+    "edition": "32",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PinkLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "OrcAlienFemale"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "LaserEyesGold"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "TanningGlasses"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "BrownHair"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #33",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "afc35dc7d94635315bd2fdb4e63aa039bbc911f6",
+    "edition": "33",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PinkLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Male"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "LaserEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Mohawk"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #34",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "93888a16f978f279549dd9ff5bf6c02825aef4d5",
+    "edition": "34",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "BlueLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Alien"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "NormalEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "NormalMouth"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "BigShades"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Fedora"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #35",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "3d0cbfa732d851e66af0b99c7aa2e7866b0c6fc0",
+    "edition": "35",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "DullYellowLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Female"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "LaserEyesGold"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Glasses"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "GLITCH"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Beanie"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #36",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "7cac219297e7d83042de3c457591b2dbf0db2efa",
+    "edition": "36",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "DullYellowLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Male"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "NormalEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "3dglasses"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "FlowerCrown"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #37",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "08df7a7ac744847665b433602741f33d276ac9e0",
+    "edition": "37",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "LightGreenLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Male"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "LaserEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "GLITCH"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #38",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "388c777dfb9edffed23cacdca458defd9b66c129",
+    "edition": "38",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "YellowLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Zombie"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "LaserEyesGold"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Sunglasses"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "MohawkThin"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #39",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "f7c53f3ce9abbabdaa44538029d3b37dc71c4a96",
+    "edition": "39",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "LightGreenLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Martian"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "PurpleEyesShadow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "NormalMouth"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "GLITCH"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "BrownHair"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #40",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "55eb340e3df04b1df95544fd67c088aac376632d",
+    "edition": "40",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "RedLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Female"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "NormalEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "TanningGlasses"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "BlondeHair"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #41",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "62c3b8cb90ada9d30e66cd15d889a94db44cded6",
+    "edition": "41",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "LightBlueLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "AlienFemale"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "LaserEyesGold"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Sunglasses"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "MohawkRed"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #42",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "f037b82af9dbdd67d89ac9cfac9a001571aa16dc",
+    "edition": "42",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "BlueLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Zombie"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "BlueEyeShadow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Glasses"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "GreenHair"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin #43",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "8cf74072aad6427a6ef915fb0bc2be5eba20feb9",
+    "edition": "43",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "LightBlueLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Female"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "LaserEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "3dglasses"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "BlackBeard"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #44",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "5f6929d58356b9606596a677901d24c8ae6f587e",
+    "edition": "44",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ShamrockLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "AlienFemale"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "NormalEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "BlondeHair"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #45",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "81c50b09579e0729bf55c497cb0b70e78b958698",
+    "edition": "45",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ShinyRedLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "AlienFemale"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "LaserEyesGold"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "BlackHair"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #46",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "5a328e8595d237804c1bb7e5c74651136aaebb34",
+    "edition": "46",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PurpleLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Male"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "LaserEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "BlackBeard"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #47",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "a4ef785ce88b00f3fd14ca4934307ca68bdad66c",
+    "edition": "47",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "LightGreenLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Ape"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "LaserEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "PurpleLipStick"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "lasereyesgold"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #48",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "f6816e008503e217b5949e8dc0ac7d61d77d25a1",
+    "edition": "48",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "GreyLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "AlienApe"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "NormalEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "NormalMouth"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Sunglasses"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Earring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #49",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "f1cb5f823456371a5743ee7e8a96ead5d42e4ed1",
+    "edition": "49",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "RedLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Female"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "NormalEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "HotLipStick"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "VR"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Earring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #50",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "130350b701884c309932b5bfdec4222c2e14e6ae",
+    "edition": "50",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "WhiteLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Female"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "LaserEyesGold"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "HotLipStick"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #51",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "372417485125b5e98825dd90dc89a7f08e220526",
+    "edition": "51",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ShamrockLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "OrcApe"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "LaserEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "NormalMouth"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Sunglasses"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "WhiteHair"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #52",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "d7c60d73aba3cf3eaca7d636e3a64d04c1c64db4",
+    "edition": "52",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "LightBlueLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "OrcApe"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "NormalEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "NormalMouth"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "3dglasses"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "GLITCH"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Headband"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #53",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "974e8fe843304f2b5d2d91c4a4aafeab269b5128",
+    "edition": "53",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "LightBlueLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "MartianApe"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "LaserEyesGold"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "NormalMouth"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "GLITCH"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "CuteHair"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #54",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "215a5d0c17f20ebec1f2382016907bc9fb475598",
+    "edition": "54",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "LightGreenLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Male"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "LaserEyesGold"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "PurpleLipStick"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #55",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "6cb3d5be2242d5e9e84c5904499dc79f550a3983",
+    "edition": "55",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "LightBlueLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Male"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "NormalEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "TanningGlasses"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "GLITCH"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "BlackHair"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #56",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "e3e23ecb306fcc6076d66acb9534be36ebad9bb0",
+    "edition": "56",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "RedLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "MartianApe"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "BlueEyeShadow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "NormalMouth"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Pipe"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #57",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "8a14f9cdee00a4962e41504aef10495d83d5c19e",
+    "edition": "57",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "DullYellowLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "OrcApe"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "GreenEyeShadow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "NormalMouth"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "WeldingGoggles"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "MuttonChops"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #58",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "7804088a85d8271e4b51d044682c40d56e92881d",
+    "edition": "58",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "LightGreenLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Male"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "LaserEyesGold"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "WeldingGoggles"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "GLITCH"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "BrownHair"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #59",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "9ded04027fb9e068c4a12da45a4ef8ef6685b871",
+    "edition": "59",
+    "date": "2.10.2023",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "RedLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Male"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "GreenEyeShadow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "WeldingGoggles"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Fedora"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #60",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "63ed6a1e21099aaa572e1f5ac959aab6d56761d8",
+    "edition": "60",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "YellowLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Martian"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "BlueEyeShadow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "NormalMouth"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #61",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "744bdfb60f09f6ee2b0aaf608d73fd9f23563322",
+    "edition": "61",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PurpleLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Female"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "GreenEyeShadow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "EyePatch"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Beanie"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #62",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "0739df75abf858db0a7e69a602fffa301814cb1d",
+    "edition": "62",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "BlueLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "AlienApe"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "NormalEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "NormalMouth"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "3dglasses"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "MohawkDark"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #63",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "bd46d05dbf96fdf7eeba4b6a0ed17c1178bbaceb",
+    "edition": "63",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "OrangeLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Zombie"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "NormalEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "WeldingGoggles"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Bandana"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #64",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "ebf3621da2ad6a3bbf644ee2a9f9bbafe8351097",
+    "edition": "64",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "LigthPurpleLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "OrcApe"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "GreenEyeShadow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "NormalMouth"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Tyrolean"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #65",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "fb54285576432a90d619caad2dde0d9afd9d93de",
+    "edition": "65",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "BlueLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "OrcApe"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "LaserEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "NormalMouth"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "CoolShades"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Earring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #66",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "8d62c645a05083a4ab639cbfb0c58484c43163e6",
+    "edition": "66",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "GreyLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Alien"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "LaserEyesGold"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "NormalMouth"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "GLITCH"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "RedHair"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #67",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "71481ab52ce02c75cf504e5c8f8400f7a3b40b8d",
+    "edition": "67",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "GreyLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Female"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "GreenEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "HotLipStick"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "EyeMask"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #68",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "dd49f3de70fd2bca60467209f8e6158a47acb4a7",
+    "edition": "68",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "LigthPurpleLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Martian"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "LaserEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "NormalMouth"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Sombrero"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #69",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "24266dbec5d4aa1197c3eda3381c905f213ea234",
+    "edition": "69",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "WhiteLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "OrcAlienFemale"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "LaserEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "KnittedCap"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "PinkHair"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #70",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "45de0350dc0603213435100fc5c023f37758c11e",
+    "edition": "70",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "RedLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Zombie"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "LaserEyesGold"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "EyePatch"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Mustache"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #71",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "1290b6a9813f01f6c13a8565f1b6c85e5a2db6c3",
+    "edition": "71",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PurpleLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Female"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "GreenEyeShadow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "EyePatch"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "BlondeHair"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #72",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "0b7ebb4c3625e804edf609401da5350997c06f88",
+    "edition": "72",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ShinyRedLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "MartianApe"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "NormalEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "NormalMouth"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "WeldingGoggles"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #73",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "efa703777bd8bb872dd027efbe7de92fd5e3ce0d",
+    "edition": "73",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PinkLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "MartianApe"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "LaserEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "NormalMouth"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "EyeMask"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "BlackBeard"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #74",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "45222c8bbc807dfd7951b474da1440f7f4caab80",
+    "edition": "74",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "LightGreenLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "OrcAlien"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "NormalEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "NormalMouth"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "BigShades"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Pipe"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #75",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "1591188496ad8308d0f68ea799cf119079efb1a5",
+    "edition": "75",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "LightBlueLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Female"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "BlueEyeShadow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "NormalMouth"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "TanningGlasses"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Cap"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #76",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "43686e7529217315aa9a5d0f8f2a9e028616293f",
+    "edition": "76",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "OrangeLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Male"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "NormalEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "VR"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Tuque"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punk #77",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "image": "ipfs://undefined77.png",
+    "dna": "f24ca49828d9930e87b4637199b07198910636bb",
+    "edition": "77",
+    "date": "2.10.2023",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "LightGreenLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Male"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "NormalEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Sunglasses"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "WhiteHair"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #78",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "94e91dfb9a45b91657f7e1737a796225140906b1",
+    "edition": "78",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "GrayLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Martian"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "NormalEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "PurpleLipStick"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "VR"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #79",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "a1e88c4a04622422d500f0719b25a0f1c39421f9",
+    "edition": "79",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "LightGreenLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Zombie"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "NormalEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "EyePatch"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "GreenHair"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #80",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "066dda7dcabe04b6f5332a57faf10071e1a11ac2",
+    "edition": "80",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "WhiteLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Alien"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "NormalEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "NormalMouth"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "VR"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "GLITCH"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #81",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "520e6204a73872db6cf0b1d9bcd630423fc53ac3",
+    "edition": "81",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "BorwnLightcoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "OrcApe"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "GreenEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "NormalMouth"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "EyeMask"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "GLITCH"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "BlondeHair"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #82",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "3add332161e5463439a5c93424cae4ad8dad194a",
+    "edition": "82",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "LightGreenLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "AlienFemale"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "LaserEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Beanie"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #83",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "214b0d18ebf63419db8d3bcb0b1641b7b18fd215",
+    "edition": "83",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "BlueLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "AlienApe"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "LaserEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "NormalMouth"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Glasses"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #84",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "f4b6146a9d4a1165b8c635a8177672d32ac42d0c",
+    "edition": "84",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PinkLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Ape"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "NormalEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "NormalMouth"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Sunglasses"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "MohawkDark"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #85",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "aac8d5e809274c092c45734d7e7820e253c50281",
+    "edition": "85",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "GreyLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "AlienApe"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "LaserEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "NormalMouth"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Glasses"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Tuque"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #86",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "ba831afdb15be79bcf9c12134a847d1afdefc9e1",
+    "edition": "86",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "PinkLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "AlienApe"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "NormalEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "NormalMouth"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "3dglasses"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Cigarette"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #87",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "a29c11ebc43b2ba4be6711f75e2ea2c0e431e056",
+    "edition": "87",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "RedLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Zombie"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "NormalEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "BigShades"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "MuttonChops"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #88",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "435b924524d6b9b489cf2e2d341407f5ea7d9505",
+    "edition": "88",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "RedLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Martian"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "NormalEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "NormalMouth"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Sunglasses"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "WhiteHair"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks 89",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "ed31f208560549d7d23d727c1a5bb87e321608c3",
+    "edition": "89",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "DullYellowLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Female"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "BlueEyeShadow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Glasses"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "GLITCH"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "BrownBeard"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #90",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "11f5e7b8b82876bd22729a2d00b5d434b532a81a",
+    "edition": "90",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "LightBabyBlueLitcoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Male"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "NormalEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "3dglasses"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "GLITCH"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Headband"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #91",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "d118ef7a965e0991f868ed553d56b5863c36feb3",
+    "edition": "91",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "BorwnLightcoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "AlienApe"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "NormalEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "NormalMouth"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Glasses"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "BlackBeard"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #92",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "a74850b762e023ae832bff1572cabe440ead459a",
+    "edition": "92",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "LightBlueLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "OrcApe"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "LaserEyesGold"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "NormalMouth"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Sunglasses"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Cap"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #93",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "4f5796427c47682ec7d1a0badd657dccec6e2e87",
+    "edition": "93",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "LightBlueLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "OrcAlien"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "LaserEyesGold"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "NormalMouth"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "GLITCH"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #94",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "8bfb12bd28b61cbe3a8568e5af6b7e1c779b5701",
+    "edition": "94",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "OrangeLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Male"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "GreenEyeShadow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "EyePatch"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "GLITCH"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #95",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "3b0ba9c7dec1ad3e38f3d4b5a1d2b333ffb38631",
+    "edition": "95",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "OrangeLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "OrcApe"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "LaserEyesGold"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "NormalMouth"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "CoolShades"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "GreenHair"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #96",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "128514d383aa64d3884074f552b65ce0c668d570",
+    "edition": "96",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "OrangeLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Male"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "LaserEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "VR"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "GLITCH"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "BlackHair"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #97",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "image": "ipfs://undefined97.png",
+    "dna": "4c01095a61cce329afc0c76fc8f4145eb9d84bc7",
+    "edition": "97",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "YellowLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Zombie"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "LaserEyesGold"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "BigShades"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Fedora"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #98",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "ee1771a838f3870b37091fd9f81128f4193e2b7e",
+    "edition": "98",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "BlueLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "OrcAlienFemale"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "GreenEyeShadow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "WeldingGoggles"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "GLITCH"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "Mustache"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #99",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "image": "ipfs://undefined99.png",
+    "dna": "ccf24e94a803c964aa3164a72267585f77a406ad",
+    "edition": "99",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "YellowLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "OrcAlienFemale"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "LaserEyesGold"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Glasses"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "MohawkThin"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Litecoin Punks #100",
+    "description": "Litecoin Punks are a collection of 100 early Litecoin Ordinals with inscriptions #642 to #834.",
+    "dna": "ef161612b72ef4ed70749c2510abf68dbc9b7cd0",
+    "edition": "100",
+    "date": "",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "RedLitecoin"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Female"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "NormalEyes"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "NormalMouth"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "EyeMask"
+      },
+      {
+        "trait_type": "Outerwear",
+        "value": "None"
+      },
+      {
+        "trait_type": "Headwear",
+        "value": "None"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]

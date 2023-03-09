@@ -112,45 +112,27 @@ function Gallery() {
               <div className="filter-menu">
                 {Object.keys(filterOptions).map(option => (
                   <div className="filter-menu-item" key={option}>
-                    <label htmlFor={`${option}-select`}>{option}</label>
-                    {filterOptions[option].size > 1 ? (
-                      <div className="filter-checkboxes">
-                        <div
-                          className="filter-checkbox-toggle"
-                          onClick={() => setFilterOptionExpanded(prevState => ({
-                            ...prevState,
-                            [option]: !prevState[option],
-                          }))}
-                        >
-                          {filterOptionExpanded[option] ? "-" : "+"}
-                        </div>
-                        {filterOptionExpanded[option] && (
-                          <div className="filter-checkboxes-list">
-                            {[...filterOptions[option]].map(value => (
-                              <label key={value}>
-                                <input
-                                  type="checkbox"
-                                  value={value}
-                                  checked={selectedFilters[option].has(value)}
-                                  onChange={() => toggleFilterOption(option, value)}
-                                />
-                                {value}
-                              </label>
-                            ))}
-                          </div>
-                        )}
-                      </div>
-                    ) : (
-                      <select
-                        id={`${option}-select`}
-                        value={selectedFilters[option].size > 0 ? [...selectedFilters[option]][0] : ""}
-                        onChange={e => toggleFilterOption(option, e.target.value)}
-                      >
-                        <option value="">All</option>
+                    <div className="filter-menu-label" onClick={() => setFilterOptionExpanded(prevState => ({
+                      ...prevState,
+                      [option]: !prevState[option],
+                    }))}>
+                      <label htmlFor={`${option}-select`}>{option}</label>
+                      <div className="filter-checkbox-toggle">{filterOptionExpanded[option] ? "-" : "+"}</div>
+                    </div>
+                    {filterOptionExpanded[option] && (
+                      <div className="filter-checkboxes-list">
                         {[...filterOptions[option]].map(value => (
-                          <option value={value} key={value}>{value}</option>
+                          <label key={value}>
+                            <input
+                              type="checkbox"
+                              value={value}
+                              checked={selectedFilters[option].has(value)}
+                              onChange={() => toggleFilterOption(option, value)}
+                            />
+                            {value}
+                          </label>
                         ))}
-                      </select>
+                      </div>
                     )}
                   </div>
                 ))}

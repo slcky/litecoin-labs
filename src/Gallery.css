@@ -1,0 +1,264 @@
+html,
+body,
+#root {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    font-family: "8 Bit Wonder";
+    src: url("./8-BIT-WONDER.TTF");
+}  
+
+.gallery {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.header {
+    background-color: transparent;
+    color: white;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+.button {
+    align-items: center;
+    font-family: "8 Bit Wonder";  
+    background-color: #3574c1;
+    color: white;
+    border: transparent;
+    border-radius: 4px;
+    padding: 6px;
+    padding-bottom: 8px;
+    margin-left: 30px;
+    margin-top: 40px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #1d78e1; /* change background color when hovered */
+}
+
+.button-container {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-right: 40px;
+    margin-top: 40px;
+}
+  
+  .button-gallery {
+    background-color: #e6e2e0;
+    color: #51504f;
+    border: none;
+    border-radius: 4px;
+    padding: 6px;
+    padding-bottom: 8px;
+    margin-left: 10px;
+    font-family: "8 Bit Wonder";
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+}
+
+.button-gallery:hover {
+    background-color: #d9d4d2;
+}
+
+.button-alt {
+    background-color: #e6e2e0;
+    color: #51504f;
+    border: none;
+    border-radius: 4px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 10px;
+    font-family: "8 Bit Wonder";
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+}
+  
+.button-alt:hover {
+    background-color: #d9d4d2;
+}
+
+.button-alt img {
+    width: 22px;
+    height: 22px;
+}
+
+.button-om {
+    background-color: #e6e2e0;
+    color: #51504f;
+    border: none;
+    border-radius: 4px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 10px;
+    font-family: "8 Bit Wonder";
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+}
+
+.button-om:hover {
+    background-color: #d9d4d2;
+}
+
+.button-om img {
+    width: 18px;
+    height: 18px;
+}
+
+.gallery-main {
+    background-color: #ffffff;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex {
+    display: flex;
+}
+
+.gallery-container {
+    width: 100vw;
+    height: 100vh;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    overflow: hidden;
+  }
+  
+  .left-column {
+    position: fixed;
+    width: 25%;
+    padding-top: 8rem;
+    height: 100vh;
+    grid-column-start: 1;
+  }
+  
+  .right-column {
+    margin-left: 25%;
+    width: 75%;
+    flex: 1;
+    padding-top: 8rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    height: 100vh;
+    overflow-y: scroll;
+  }
+
+  .right-column::-webkit-scrollbar {
+    display: none;
+  }
+
+  .filter-header {
+    position: relative;
+    height: 3.5rem;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  }
+
+  .filter-text {
+    margin: 0;
+    font-size: 1rem;
+    font-family: "8 Bit Wonder";
+  }
+
+  .grid-header {
+    position: relative;
+    height: 3.5rem;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  }
+
+  .grid-header-text {
+    margin: 0;
+    font-size: 1rem;
+    font-family: "8 Bit Wonder";
+  }
+
+  .grid-container {
+    margin-top: 1rem;
+    row-gap: 1.5vw;
+    column-gap: 1.5vw;
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+    display: grid;
+  }
+  
+  .grid-cell {
+    z-index: 50;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .grid-cell img {
+    z-index: 50;
+    border-radius: 0.75rem;
+    overflow: hidden;
+    position: relative;
+    image-rendering: pixelated;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .punk-number {
+    letter-spacing: .1em;
+    text-transform: uppercase;
+    font-family: "8 Bit Wonder";
+    font-size: .65rem;
+    text-align: center;
+    margin-top: 0.75rem;
+  }
+
+  .inscription-number {
+    letter-spacing: .1em;
+    text-transform: uppercase;
+    font-family: "8 Bit Wonder";
+    font-size: .65rem;
+    text-align: center;
+    margin-top: 0.25rem;
+  }
+  
+  @media (max-width: 768px) {
+    .grid-container {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      row-gap: 1vw;
+      column-gap: 0.5vw;
+    }
+  
+    .grid-cell img {
+      max-width: 100%;
+      max-height: 100%;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .grid-container {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      row-gap: 0.5vw;
+      column-gap: 0.5vw;
+    }
+  
+    .grid-cell img {
+      max-width: 100%;
+      max-height: 100%;
+    }
+  }

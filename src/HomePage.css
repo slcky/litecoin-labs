@@ -89,13 +89,37 @@ body,
     transition: background-color 0.2s ease-in-out;
 }
   
-  .button-alt:hover {
+.button-alt:hover {
     background-color: #d9d4d2;
 }
 
 .button-alt img {
     width: 22px;
     height: 22px;
+}
+
+.button-om {
+    background-color: #e6e2e0;
+    color: #51504f;
+    border: none;
+    border-radius: 4px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 10px;
+    font-family: "8 Bit Wonder";
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+}
+
+.button-om:hover {
+    background-color: #d9d4d2;
+}
+
+.button-om img {
+    width: 18px;
+    height: 18px;
 }
 
 .main {

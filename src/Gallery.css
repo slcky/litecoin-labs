@@ -12,13 +12,13 @@ body,
 }  
 
 @font-face {
-  font-family: "Rainy Hearts";
-  src: url("./rainyhearts.ttf");
+  font-family: "dogica";
+  src: url("./dogica.ttf");
 }  
 
 @font-face {
-  font-family: "test";
-  src: url("./test2.ttf");
+  font-family: "dogicabold";
+  src: url("./dogicabold.ttf");
 }  
 
 .gallery {
@@ -227,6 +227,7 @@ body,
 
   .filter-menu-label > label {
     margin-right: 0.5em;
+    font-family: "8 Bit Wonder";
   }
 
   .filter-menu::-webkit-scrollbar {
@@ -236,7 +237,7 @@ body,
   .filter-checkboxes-list label {
     display: block;
     font-size: .75rem;
-    font-family: "8 Bit Wonder";
+    font-family: "dogica";
   }  
 
   .grid-header {

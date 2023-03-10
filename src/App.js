@@ -1,18 +1,18 @@
 import React from 'react';
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import { HashRouter, Route, Routes } from 'react-router-dom';
 import Home from './HomePage.js';
 import Gallery from './Gallery.js';
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <main>
         <Routes>
           <Route path="/" element={<Home/>} />
           <Route path="/gallery" element={<Gallery/>} />
         </Routes>
       </main>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 

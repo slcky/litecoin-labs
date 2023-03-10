@@ -11,6 +11,11 @@ body,
     src: url("./8-BIT-WONDER.TTF");
 }  
 
+@font-face {
+    font-family: "Rainy Hearts";
+    src: url("./rainyhearts.ttf");
+}  
+
 .homepage {
     background-color: #efebe8;
     display: flex;
@@ -43,6 +48,7 @@ body,
     margin-left: 30px;
     margin-top: 40px;
     cursor: pointer;
+    text-decoration: none;
 }
 
 .button:hover {
@@ -57,7 +63,7 @@ body,
     margin-top: 40px;
 }
   
-  .button-gallery {
+  .button-right {
     background-color: #e6e2e0;
     color: #51504f;
     border: none;
@@ -68,9 +74,10 @@ body,
     font-family: "8 Bit Wonder";
     cursor: pointer;
     transition: background-color 0.2s ease-in-out;
+    text-decoration: none;
 }
 
-.button-gallery:hover {
+.button-right:hover {
     background-color: #d9d4d2;
 }
 

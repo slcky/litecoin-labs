@@ -1,11 +1,23 @@
 import React, { useState } from 'react';
 import './Gallery.css';
 import parsedData from './data';
+import moonBirdsData from './moonbirdsdata';
 import TwitterIcon from "./HPImages/twitter.svg";
 import DiscordIcon from "./HPImages/discord.svg";
 import OMIcon from "./HPImages/OMLogo.png";
+import { Link } from 'react-router-dom';
 
 function Gallery() {
+
+  const [activeData, setActiveData] = useState(parsedData);
+
+  const handleMoonbirdsClick = () => {
+    setActiveData(moonBirdsData);
+  };  
+  
+  const handlePunksClick = () => {
+    setActiveData(parsedData);
+  };  
 
   const handleTwitterClick = () => {
     window.open("https://twitter.com/LitecoinPunks", "_blank");
@@ -29,6 +41,7 @@ function Gallery() {
     Body: new Set(),
     Outerwear: new Set(),
   };
+  
   parsedData.forEach(row => {
     Object.keys(filterOptions).forEach(option => {
       filterOptions[option].add(row[option]);
@@ -86,9 +99,10 @@ function Gallery() {
   return (
     <div className="gallery">
       <header className="header">
-        <button className="button" onClick={() => window.location.href = "/"}>LLabs</button>
+        <Link to="/" className="button">LLabs</Link>
         <div className="button-container">
-        <button className="button-gallery" onClick={() => window.location.href = "/gallery"}>Gallery</button>
+          <Link to="/gallery" className="button-right">Gallery</Link>
+          <Link to="/gallery" className="button-right">Arcade</Link>
           <button className="button-alt" onClick={handleTwitterClick}>
             <img src={TwitterIcon} alt="Twitter icon" />
           </button>
@@ -140,13 +154,16 @@ function Gallery() {
               {/* Content for the left column goes here */}
             </div>
             <div className="right-column">
-              <div className="grid-header">
-                <h1 className="grid-header-text">
-                  <span>Punks</span>
-                </h1>
-              </div>
+            <div className="grid-header">
+              <button className="grid-header-button" onClick={handlePunksClick}>
+                <span>Punks</span>
+              </button>
+              <button className="grid-header-button" onClick={handleMoonbirdsClick}>
+                <span>Moonbirds</span>
+              </button>
+            </div>
               <div className="grid-container">
-                {parsedData.filter(row => {
+                {activeData.filter(row => {
                   return Object.keys(selectedFilters).every(option => {
                     return selectedFilters[option].size === 0 || selectedFilters[option].has(row[option]);
                   });

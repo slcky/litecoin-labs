@@ -4,6 +4,7 @@ import LitecoinLabsLogo from "./HPImages/litecoinlabs.png";
 import TwitterIcon from "./HPImages/twitter.svg";
 import DiscordIcon from "./HPImages/discord.svg";
 import OMIcon from "./HPImages/OMLogo.png";
+import { Link } from 'react-router-dom';
 
 function HomePage() {
   const handleTwitterClick = () => {
@@ -21,9 +22,10 @@ function HomePage() {
   return (
     <div className="homepage">
       <header className="header">
-        <button className="button" onClick={() => window.location.href = "/"}>LLabs</button>
+        <Link to="/" className="button">LLabs</Link>
         <div className="button-container">
-        <button className="button-gallery" onClick={() => window.location.href = "/gallery"}>Gallery</button>
+          <Link to="/gallery" className="button-right">Gallery</Link>
+          <Link to="/gallery" className="button-right">Arcade</Link>
           <button className="button-alt" onClick={handleTwitterClick}>
             <img src={TwitterIcon} alt="Twitter icon" />
           </button>

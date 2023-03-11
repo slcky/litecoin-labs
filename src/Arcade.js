@@ -60,10 +60,10 @@ function Arcade() {
           <span className="insc-number" onClick={() => window.open("https://litecoin.earlyordies.com/inscription/9e032f09c80d42a04ef152cdc3d5ed654ce54ad4c09de0b6a0e82bc43ce9b58ei0", "_blank")}>LTC Insc. 2014</span>
         </div>
         <div className="canvas-container">
-          <span className="game-name">Flappy Chikun</span>
+          <span className="game-name">Flappy Wizards</span>
           <iframe
             className="game-container"
-            title="Flappy Chikun"
+            title="Flappy Wizards"
             src="https://ordinals.com/content/c692050303c31b623283d9487bfa18f04e8f4ee470066d7e960589740f8d90fai0"
             width="300px"
             height="435px"

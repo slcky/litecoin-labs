@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import './Gallery.css';
 import parsedData from './data';
 import moonBirdsData from './moonbirdsdata';
@@ -6,13 +6,18 @@ import TwitterIcon from "./HPImages/twitter.svg";
 import DiscordIcon from "./HPImages/discord.svg";
 import OMIcon from "./HPImages/OMLogo.png";
 import { Link } from 'react-router-dom';
+import 'intersection-observer';
 
 function Gallery() {
 
-  const [activeData, setActiveData] = useState(parsedData);
+  const [activeData, setActiveData] = useState(parsedData.slice(0, 100)); // Only show the first 100 grids by default
+  const [realData, setrealData] = useState();
+  const lastGridCellRef = useRef(null);
+  const lastMoonbirdsIndexRef = useRef(null);
 
   const handleMoonbirdsClick = () => {
-    setActiveData(moonBirdsData);
+    setActiveData(moonBirdsData.slice(0, 100));
+    setrealData(moonBirdsData);
     setSelectedFilters({
       Background: new Set(),
       Body: new Set(),
@@ -33,11 +38,14 @@ function Gallery() {
       Headwear: false,
       Outerwear: false,
     });
-    setSelectedFilters(moonBirdsFilterOptions);;
+    setSelectedFilters(moonBirdsFilterOptions);
   };  
   
   const handlePunksClick = () => {
-    setActiveData(parsedData);
+    setActiveData(parsedData.slice(0, 100));
+    setrealData(parsedData);
+    lastMoonbirdsIndexRef.current = null;
+    window.location.reload();
   };  
 
   const handleTwitterClick = () => {
@@ -130,6 +138,53 @@ function Gallery() {
      setSortOrder("asset");
    }
  };
+
+  // Update the useEffect() hook to use the Intersection Observer API
+  useEffect(() => {
+    const observer = new IntersectionObserver(
+      entries => {
+        if (entries[0].isIntersecting) {
+          if (realData === moonBirdsData) {
+            // Load more data if there is any remaining to be displayed
+            if (activeData.length < moonBirdsData.length) {
+              setActiveData(prevData => [
+                ...prevData,
+                ...moonBirdsData.slice(prevData.length, prevData.length + 100),
+              ]);
+            } else {
+              lastMoonbirdsIndexRef.current = activeData.length - 1;
+            }
+          } else if (realData === parsedData) {
+            // Load more data if there is any remaining to be displayed
+            if (activeData.length < parsedData.length) {
+              setActiveData(parsedData.slice(0, 100));
+            }
+          }          
+        }
+      },
+      { threshold: 1 }
+    );
+  
+    // Observe the last grid cell ref
+    if (lastGridCellRef.current) {
+      observer.observe(lastGridCellRef.current);
+    }
+  
+    // Cleanup the observer when the component unmounts
+    return () => {
+      if (lastGridCellRef.current) {
+        observer.unobserve(lastGridCellRef.current);
+      }
+    };
+  }, [activeData, realData]);  
+
+  useEffect(() => {
+    return () => {
+      if (lastMoonbirdsIndexRef.current !== null) {
+        setActiveData(prevData => prevData.slice(0, lastMoonbirdsIndexRef.current + 1));
+      }
+    };
+  }, []);
   
   return (
     <div className="gallery">
@@ -212,22 +267,22 @@ function Gallery() {
               </div>
             </div>
             <div className="grid-container">
-              {activeData
-                .filter(row => {
-                  return Object.keys(selectedFilters).every(option => {
-                    return selectedFilters[option].size === 0 || selectedFilters[option].has(row[option]);
-                  });
-                })
-                .sort(sortOrder === "asset" ? (a, b) => a['Asset #'] - b['Asset #'] : (b, a) => a.Rarity - b.Rarity)
-                .map(row => (
-                  <div className="grid-cell" key={row['Asset #']}>
-                    <img src={row['Image']} alt={`${row['Item #']}`} />
-                    <div className="punk-number">{`${row['Item #']}`}</div>
-                    <div className="inscription-number">{`INSC. ${row['Inscription #']}`}</div>
-                    <div className="punk-rarity">{`RANK ${row['Rank Value']}`}</div>
-                  </div>
-                ))}
-            </div>
+            {activeData
+              .filter(row => {
+                return Object.keys(selectedFilters).every(option => {
+                  return selectedFilters[option].size === 0 || selectedFilters[option].has(row[option]);
+                });
+              })
+              .sort(sortOrder === 'asset' ? (a, b) => a['Asset #'] - b['Asset #'] : (b, a) => a.Rarity - b.Rarity)
+              .map((row, index) => (
+                <div className="grid-cell" key={row['Asset #']} ref={index === activeData.length - 1 ? lastGridCellRef : null}>
+                  <img src={row['Image']} alt={`${row['Item #']}`} />
+                  <div className="punk-number">{`${row['Item #']}`}</div>
+                  <div className="inscription-number">{`INSC. ${row['Inscription #']}`}</div>
+                  <div className="punk-rarity">{`RANK ${row['Rank Value']}`}</div>
+                </div>
+              ))}
+              </div>
             </div>
           </div>
         </div>

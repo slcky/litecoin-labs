@@ -167,6 +167,7 @@ body,
 
   .insc-number {
     font-family: dogica;
+    cursor: pointer;
   }
   
   .game-container {

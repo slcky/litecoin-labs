@@ -273,6 +273,7 @@ body,
 
   .filter-menu-item {
     border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    cursor: pointer;
   }
 
   .filter-menu-label {
@@ -280,11 +281,13 @@ body,
     align-items: center;
     justify-content: space-between;
     height: 3rem;
+    cursor: pointer;
   }
 
   .filter-menu-label > label {
     margin-right: 0.5em;
     font-family: "8 Bit Wonder";
+    cursor: pointer;
   }
 
   .filter-menu::-webkit-scrollbar {
@@ -295,6 +298,7 @@ body,
     display: block;
     font-size: .75rem;
     font-family: "dogica";
+    cursor: pointer;
   }  
 
   .grid-header {
@@ -326,6 +330,7 @@ body,
     justify-content: center;
     align-items: center;
     text-align: center;
+    cursor: pointer;
   }
 
   .grid-cell:hover img {

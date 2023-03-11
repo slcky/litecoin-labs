@@ -25,7 +25,7 @@ function HomePage() {
         <Link to="/" className="button">LLabs</Link>
         <div className="button-container">
           <Link to="/gallery" className="button-right">Gallery</Link>
-          <Link to="/gallery" className="button-right">Arcade</Link>
+          <Link to="/arcade" className="button-right">Arcade</Link>
           <button className="button-alt" onClick={handleTwitterClick}>
             <img src={TwitterIcon} alt="Twitter icon" />
           </button>

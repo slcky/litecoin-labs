@@ -1,0 +1,189 @@
+html,
+body,
+#root {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    font-family: "8 Bit Wonder";
+    src: url("./8-BIT-WONDER.TTF");
+}  
+
+@font-face {
+  font-family: "dogica";
+  src: url("./dogica.ttf");
+}  
+
+@font-face {
+  font-family: "dogicabold";
+  src: url("./dogicabold.ttf");
+}   
+
+.homepage {
+    background-color: #efebe8;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+}
+
+.header {
+    background-color: transparent;
+    color: white;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.button {
+    align-items: center;
+    font-family: "8 Bit Wonder";  
+    background-color: #3574c1;
+    color: white;
+    border: transparent;
+    border-radius: 4px;
+    padding: 6px;
+    padding-bottom: 8px;
+    margin-left: 30px;
+    margin-top: 40px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.button:hover {
+    background-color: #1d78e1; /* change background color when hovered */
+}
+
+.button-container {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-right: 40px;
+    margin-top: 40px;
+}
+  
+  .button-right {
+    background-color: #e6e2e0;
+    color: #51504f;
+    border: none;
+    border-radius: 4px;
+    padding: 6px;
+    padding-bottom: 8px;
+    margin-left: 10px;
+    font-family: "8 Bit Wonder";
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+    text-decoration: none;
+}
+
+.button-right:hover {
+    background-color: #d9d4d2;
+}
+
+.button-alt {
+    background-color: #e6e2e0;
+    color: #51504f;
+    border: none;
+    border-radius: 4px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 10px;
+    font-family: "8 Bit Wonder";
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+}
+  
+.button-alt:hover {
+    background-color: #d9d4d2;
+}
+
+.button-alt img {
+    width: 22px;
+    height: 22px;
+}
+
+.button-om {
+    background-color: #e6e2e0;
+    color: #51504f;
+    border: none;
+    border-radius: 4px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 10px;
+    font-family: "8 Bit Wonder";
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+}
+
+.button-om:hover {
+    background-color: #d9d4d2;
+}
+
+.button-om img {
+    width: 18px;
+    height: 18px;
+}
+
+.main {
+    background-color: #efebe8;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .all-games {
+    background-color: #efebe8;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+  
+  .canvas-container {
+    transition: transform 0.2s cubic-bezier(0.25, 0.45, 0.45, 0.95); /* replace with desired transition duration and timing function */
+    transform-style: preserve-3d; /* enable hardware acceleration */
+    backface-visibility: hidden; /* improve performance when using 3D transforms */
+    overflow: hidden; /* Prevent scrolling */
+    text-align: center; /* align spans to center */
+    padding: 20px; /* add padding to expand the shadow */
+  }
+
+  .game-name {
+    font-family: dogicabold;
+  }
+
+  .insc-number {
+    font-family: dogica;
+  }
+  
+  .game-container {
+    border: solid 1px #ccc;
+    border-radius: 10px;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.25); /* replace with desired shadow properties */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .canvas-container:hover {
+    transform: scale3d(1.05, 1.05, 1); /* replace with desired scale factor */
+  }
+  
+  
+  
+  

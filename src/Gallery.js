@@ -13,6 +13,27 @@ function Gallery() {
 
   const handleMoonbirdsClick = () => {
     setActiveData(moonBirdsData);
+    setSelectedFilters({
+      Background: new Set(),
+      Body: new Set(),
+      Eyes: new Set(),
+      Mouth: new Set(),
+      Beak: new Set(),
+      Eyewear: new Set(),
+      Headwear: new Set(),
+      Outerwear: new Set(),
+    });
+    setFilterOptionExpanded({
+      Background: false,
+      Body: false,
+      Eyes: false,
+      Mouth: false,
+      Beak: false,
+      Eyewear: false,
+      Headwear: false,
+      Outerwear: false,
+    });
+    setSelectedFilters(moonBirdsFilterOptions);;
   };  
   
   const handlePunksClick = () => {
@@ -33,40 +54,56 @@ function Gallery() {
 
    // Get all the possible filter options from the data
    const filterOptions = {
+    Background: new Set(),
+    Body: new Set(),
+    Eyes: new Set(),
     Mouth: new Set(),
+    Beak: new Set(),
     Eyewear: new Set(),
     Headwear: new Set(),
-    Background: new Set(),
-    Eyes: new Set(),
-    Body: new Set(),
     Outerwear: new Set(),
   };
+
+  const moonBirdsFilterOptions = {
+    Background: new Set(),
+    Body: new Set(),
+    Eyes: new Set(),
+    Mouth: new Set(),
+    Beak: new Set(),
+    Eyewear: new Set(),
+    Headwear: new Set(),
+    Outerwear: new Set(),
+  };  
   
   activeData.forEach(row => {
     Object.keys(filterOptions).forEach(option => {
-      filterOptions[option].add(row[option]);
+      if (row[option]) { // Only add the option to the set if it exists in the data
+        filterOptions[option].add(row[option]);
+      }
     });
-  });
+  });  
 
   // State to keep track of which filter options are currently selected
   const [selectedFilters, setSelectedFilters] = useState({
+    Background: new Set(),
+    Body: new Set(),
+    Eyes: new Set(),
     Mouth: new Set(),
+    Beak: new Set(),
     Eyewear: new Set(),
     Headwear: new Set(),
-    Background: new Set(),
-    Eyes: new Set(),
-    Body: new Set(),
     Outerwear: new Set(),
   });
 
   // State to keep track of whether each filter option is currently expanded or collapsed
   const [filterOptionExpanded, setFilterOptionExpanded] = useState({
+    Background: false,
+    Body: false,
+    Eyes: false,
     Mouth: false,
+    Beak: false,
     Eyewear: false,
     Headwear: false,
-    Background: false,
-    Eyes: false,
-    Body: false,
     Outerwear: false,
   });
 
@@ -100,7 +137,7 @@ function Gallery() {
         <Link to="/" className="button">LLabs</Link>
         <div className="button-container">
           <Link to="/gallery" className="button-right">Gallery</Link>
-          <Link to="/gallery" className="button-right">Arcade</Link>
+          <Link to="/arcade" className="button-right">Arcade</Link>
           <button className="button-alt" onClick={handleTwitterClick}>
             <img src={TwitterIcon} alt="Twitter icon" />
           </button>
@@ -122,10 +159,12 @@ function Gallery() {
                 </h1>
               </div>
               <div className="filter-menu">
-              <span>Rarity Mode</span>
-              <button className="grid-header-button" onClick={handleSortOrderChange}>
-                <span>{sortOrder === "asset" ? "Off" : "On"}</span>
-              </button>
+                <div className="rarity-switch">
+                  <span className="rarity-switch-text">Rarity Mode</span>
+                  <button className="grid-header-button" onClick={handleSortOrderChange}>
+                    <span>{sortOrder === "asset" ? "Off" : "On"}</span>
+                  </button>
+                </div>
                 {Object.keys(filterOptions).map(option => {
                   const labels = [...filterOptions[option]];
                   const hasLabels = labels.length > 0;
@@ -163,12 +202,14 @@ function Gallery() {
             </div>
             <div className="right-column">
             <div className="grid-header">
-              <button className="grid-header-button" onClick={handlePunksClick}>
-                <span>Punks</span>
+              <div className="grid-header-button-container">
+                <button className="grid-header-button" onClick={handlePunksClick}>
+                  <span>Punks</span>
+                </button>
+                <button className="grid-header-button" onClick={handleMoonbirdsClick}>
+                  <span>Moonbirds</span>
               </button>
-              <button className="grid-header-button" onClick={handleMoonbirdsClick}>
-                <span>Moonbirds</span>
-              </button>
+              </div>
             </div>
             <div className="grid-container">
               {activeData
@@ -177,12 +218,13 @@ function Gallery() {
                     return selectedFilters[option].size === 0 || selectedFilters[option].has(row[option]);
                   });
                 })
-                .sort(sortOrder === "asset" ? (a, b) => a['Asset #'] - b['Asset #'] : (a, b) => a.Rarity - b.Rarity)
+                .sort(sortOrder === "asset" ? (a, b) => a['Asset #'] - b['Asset #'] : (b, a) => a.Rarity - b.Rarity)
                 .map(row => (
                   <div className="grid-cell" key={row['Asset #']}>
-                    <img src={row['Image']} alt={`Punk #${row['Asset #']}`} />
-                    <div className="punk-number">{`PUNK ${row['Asset #']}`}</div>
+                    <img src={row['Image']} alt={`${row['Item #']}`} />
+                    <div className="punk-number">{`${row['Item #']}`}</div>
                     <div className="inscription-number">{`INSC. ${row['Inscription #']}`}</div>
+                    <div className="punk-rarity">{`RANK ${row['Rank Value']}`}</div>
                   </div>
                 ))}
             </div>

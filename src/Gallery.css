@@ -4,6 +4,7 @@ body,
     height: 100%;
     margin: 0;
     padding: 0;
+    user-select: none;
 }
 
 @font-face {
@@ -83,6 +84,49 @@ body,
     text-decoration: none;
 }
 
+.grid-header-button-container {
+  max-width: 222px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: #e5e5e5;
+  color: #51504f;
+  border: none;
+  border-radius: 8px;
+  padding: 0px;
+  padding-bottom: 5px;
+  padding-right: 2px;
+  padding-top: 5px;
+  font-family: "8 Bit Wonder";
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out;
+  text-decoration: none;
+}
+
+.grid-header-button {
+  background-color: #e5e5e5;
+  color: #000000;
+  border: none;
+  border-radius: 8px;
+  padding: 6px;
+  padding-bottom: 8px;
+  margin-left: 2px;
+  font-family: "8 Bit Wonder";
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out;
+  text-decoration: none;
+}
+
+.grid-header-button:hover {
+  background-color: #f2f2f2;
+}
+
+.grid-header-button:active,
+.grid-header-button:focus {
+  background-color: #ffffff; /* replace with your desired background color */
+  
+}
+
 .button-right:hover {
     background-color: #d9d4d2;
 }
@@ -104,6 +148,7 @@ body,
   
 .button-alt:hover {
     background-color: #d9d4d2;
+    color: white;
 }
 
 .button-alt img {
@@ -214,6 +259,18 @@ body,
     padding-top: 1.5rem;
   }
 
+  .rarity-switch {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 3rem;
+  }
+  .rarity-switch-text {
+    margin-right: 0.5em;
+    font-family: "8 Bit Wonder";
+  }
+
   .filter-menu-item {
     border-bottom: 1px solid rgba(0, 0, 0, 0.1);
   }
@@ -293,19 +350,31 @@ body,
   .punk-number {
     letter-spacing: .1em;
     text-transform: uppercase;
-    font-family: "8 Bit Wonder";
+    font-family: "dogicabold";
     font-size: .65rem;
     text-align: center;
     margin-top: 0.75rem;
+    padding-bottom: 0.25rem;
   }
 
   .inscription-number {
     letter-spacing: .1em;
     text-transform: uppercase;
-    font-family: "8 Bit Wonder";
+    font-family: "dogica";
     font-size: .65rem;
     text-align: center;
     margin-top: 0.25rem;
+    padding-bottom: 0.25rem;
+  }
+
+  .punk-rarity {
+    letter-spacing: .1em;
+    text-transform: uppercase;
+    font-family: "dogica";
+    font-size: .65rem;
+    text-align: center;
+    margin-top: 0.25rem;
+    padding-bottom: 0.25rem;
   }
   
   @media (max-width: 768px) {

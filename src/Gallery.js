@@ -15,6 +15,13 @@ function Gallery() {
   const lastGridCellRef = useRef(null);
   const lastMoonbirdsIndexRef = useRef(null);
 
+  const handlePunksClick = () => {
+    setActiveData(parsedData.slice(0, 100));
+    setrealData(parsedData);
+    lastMoonbirdsIndexRef.current = null;
+    window.location.reload();
+  };
+  
   const handleMoonbirdsClick = () => {
     setActiveData(moonBirdsData.slice(0, 100));
     setrealData(moonBirdsData);
@@ -39,14 +46,15 @@ function Gallery() {
       Outerwear: false,
     });
     setSelectedFilters(moonBirdsFilterOptions);
-  };  
   
-  const handlePunksClick = () => {
-    setActiveData(parsedData.slice(0, 100));
-    setrealData(parsedData);
-    lastMoonbirdsIndexRef.current = null;
-    window.location.reload();
-  };  
+    // Append a timestamp to the image URLs to force the browser to fetch the updated images
+    const images = document.querySelectorAll('img');
+    images.forEach((img) => {
+      const src = img.dataset.src;
+      img.dataset.src = `${src}?t=${Date.now()}`;
+    });
+  };
+  
 
   const handleTwitterClick = () => {
     window.open("https://twitter.com/LitecoinPunks", "_blank");
@@ -138,6 +146,22 @@ function Gallery() {
      setSortOrder("asset");
    }
  };
+
+ useEffect(() => {
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach((entry) => {
+        if (entry.isIntersecting) {
+          entry.target.src = entry.target.dataset.src;
+          observer.unobserve(entry.target);
+        }
+      });
+    });
+
+    document.querySelectorAll('img[data-src]').forEach((img) => {
+      observer.observe(img);
+    });
+  }, []);
+
 
   // Update the useEffect() hook to use the Intersection Observer API
   useEffect(() => {
@@ -276,7 +300,7 @@ function Gallery() {
               .sort(sortOrder === 'asset' ? (a, b) => a['Asset #'] - b['Asset #'] : (b, a) => a.Rarity - b.Rarity)
               .map((row, index) => (
                 <div className="grid-cell" key={row['Asset #']} ref={index === activeData.length - 1 ? lastGridCellRef : null}>
-                  <img src={row['Image']} alt={`${row['Item #']}`} />
+                  <img src={row['Image']} alt={`${row['Item #']}`} key={`${realData}-${row['Item #']}`} />
                   <div className="punk-number">{`${row['Item #']}`}</div>
                   <div className="inscription-number">{`INSC. ${row['Inscription #']}`}</div>
                   <div className="punk-rarity">{`RANK ${row['Rank Value']}`}</div>

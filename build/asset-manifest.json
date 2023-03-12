@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.18ace066.css",
-    "main.js": "./static/js/main.8aa88cbc.js",
+    "main.js": "./static/js/main.40e4e6df.js",
     "static/js/787.a873f9b6.chunk.js": "./static/js/787.a873f9b6.chunk.js",
     "static/media/litecoinlabs.png": "./static/media/litecoinlabs.ffc43a98aba33a0713e4.png",
     "static/media/rainyhearts.ttf": "./static/media/rainyhearts.2f088ce263e644a4a5a6.ttf",
@@ -9,14 +9,14 @@
     "static/media/dogicabold.ttf": "./static/media/dogicabold.942b4ec9a276f5d55516.ttf",
     "static/media/8-BIT-WONDER.TTF": "./static/media/8-BIT-WONDER.5fa66681c6f0a8153b97.TTF",
     "static/media/discord.svg": "./static/media/discord.e0c2a5feb3a0e310b250e8da10c9b3f4.svg",
-    "static/media/twitter.svg": "./static/media/twitter.c4fb3363ce42577f41c9202fc31e8cfc.svg",
     "index.html": "./index.html",
+    "static/media/twitter.svg": "./static/media/twitter.c4fb3363ce42577f41c9202fc31e8cfc.svg",
     "main.18ace066.css.map": "./static/css/main.18ace066.css.map",
-    "main.8aa88cbc.js.map": "./static/js/main.8aa88cbc.js.map",
+    "main.40e4e6df.js.map": "./static/js/main.40e4e6df.js.map",
     "787.a873f9b6.chunk.js.map": "./static/js/787.a873f9b6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.18ace066.css",
-    "static/js/main.8aa88cbc.js"
+    "static/js/main.40e4e6df.js"
   ]
 }
